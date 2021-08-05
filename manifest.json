@@ -1,4 +1,5 @@
 {
+  "version": "0.0.2",
   "domain": "powerwall",
   "name": "Tesla Powerwall",
   "config_flow": true,
